@@ -9,6 +9,9 @@ verify_ssl = true
 django = "*"
 python-dotenv = "*"
 psycopg2 = "*"
+django-resized = "*"
+pillow = "*"
+django-multiupload = "*"
 
 [requires]
 python_version = "3.6"
